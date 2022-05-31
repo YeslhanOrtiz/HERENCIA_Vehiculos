@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto_Vehiculos
 {
-    internal class Vehiculos 
+    internal class Vehiculos : Object
     {
         private string NombreVehiculo;
         private string FuenteDeEnergia;
