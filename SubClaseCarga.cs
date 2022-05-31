@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto_Vehiculos
 {
-    internal class SubClaseCarga 
+    internal class SubClaseCarga  : SubClaseUtilitario
     {
         private string FuenteEnergiaDiesel;
         private string Ejes;

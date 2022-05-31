@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto_Vehiculos
 {
-    internal class SubClaseTerrestre 
+    internal class SubClaseTerrestre : Vehiculos
     {
         private string Cilindraje;
         private string Bateria;

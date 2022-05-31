@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto_Vehiculos
 {
-    internal class SubClaseVolqueta
+    internal class SubClaseVolqueta  : SubClaseCarga
     {
         private string Semiremolque;
 
